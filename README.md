@@ -73,6 +73,16 @@ The system generates insights that answer 15 key business questions:
 The system processes multiple delivery records, including:
 
 
+![Delivery Cost Calculator](gift1_014516.png)
+
+![Delivery Cost Calculator](gift11_014515.png)
+
+![Delivery Cost Calculator](gift2_014510.png)
+
+![Delivery Cost Calculator](gift3_014513.png)
+
+![Delivery Cost Calculator](gift33_014515.png)
+
 
 Each record contains relevant delivery information used to calculate the final delivery cost and generate individual reports.
 
